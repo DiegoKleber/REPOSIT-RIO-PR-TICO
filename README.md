@@ -2,8 +2,10 @@ REPOSITÓRIO PRÁTICO
 
 Aqui irei testar e ir testando todas as minhas habilidades e conhecimento com tempo as aplicando neste sistema de repositório!
 	Aprendi os básicos comandos até então!
+
 	git config --global user.name "#########"
 	git config --global user.email "#########@gmail.com"
+
 ou qualquer outro Email eu acho...
 
 	ls
